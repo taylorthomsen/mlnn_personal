@@ -1,5 +1,5 @@
 # mlnn
-Machine Learning and Neural Networks
+Machine Learning and Neural Networks Portfolio
 
 #### Course Instructors
 
